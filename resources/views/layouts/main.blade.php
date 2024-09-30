@@ -94,7 +94,7 @@
                     <div class="col-xl-7">
                         <div class="single_slider">
                             <div class="slider_text">
-                                @yield('slide title main')
+                                @yield('slide_title_main')
                             </div>
                         </div>
                     </div>
